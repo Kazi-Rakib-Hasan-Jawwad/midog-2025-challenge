@@ -1,0 +1,10 @@
+after_training: true
+bilinear: false
+class_weights:
+- 0.2
+- 0.99
+- 0.99
+features_start: 64
+lr: 0.01
+num_classes: 3
+num_layers: 5

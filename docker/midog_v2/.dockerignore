@@ -1,0 +1,10 @@
+**/__pycache__/
+**/*.pyc
+**/*.ckpt
+**/*.pt
+**/*.pth
+**/*.tar.gz
+**/*.zip
+training_resources/
+tf_logs/
+out*/

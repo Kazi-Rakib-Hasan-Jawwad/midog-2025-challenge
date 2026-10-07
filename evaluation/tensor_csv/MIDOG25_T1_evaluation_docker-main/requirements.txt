@@ -1,0 +1,7 @@
+SimpleITK
+numpy
+psutil
+evalutils
+torchmetrics
+pycocotools
+torchvision

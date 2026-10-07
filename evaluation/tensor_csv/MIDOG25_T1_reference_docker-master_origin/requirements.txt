@@ -1,0 +1,7 @@
+SimpleITK
+numpy
+Pillow
+torch
+torchvision
+tqdm
+requests

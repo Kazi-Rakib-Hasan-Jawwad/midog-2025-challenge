@@ -1,0 +1,3 @@
+checkpoint: last.ckpt
+mitotic_channel: 1
+non_mitotic_channel: 2

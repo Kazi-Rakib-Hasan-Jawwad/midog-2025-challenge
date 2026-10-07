@@ -1,0 +1,6 @@
+after_training: true
+bilinear: false
+features_start: 64
+lr: 0.01
+num_classes: 3
+num_layers: 5

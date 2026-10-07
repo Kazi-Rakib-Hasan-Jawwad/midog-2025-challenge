@@ -1,0 +1,5 @@
+batch_size: 8
+num_workers: 4
+device: cuda 
+nms_thresh: 0.3
+score_thresh: 0.548

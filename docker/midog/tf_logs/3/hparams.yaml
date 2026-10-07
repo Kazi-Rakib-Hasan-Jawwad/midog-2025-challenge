@@ -1,0 +1,7 @@
+after_training: true
+bilinear: false
+features_start: 64
+lr: 0.001
+max_epochs: 100
+num_classes: 3
+num_layers: 5
