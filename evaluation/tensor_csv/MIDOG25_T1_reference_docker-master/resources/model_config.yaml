@@ -1,5 +1,0 @@
-backbone: deeplabv3plus
-checkpoint: ./model/model.ckpt   # GC tarball path; or /opt/app/resources/mymodel.ckpt
-det_thresh: 0.50                         # used for “mitotic” vs “non-mitotic” naming in JSON
-patch_size: 224
-mitotic_channel: 1

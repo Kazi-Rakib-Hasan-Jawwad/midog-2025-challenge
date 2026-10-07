@@ -47,4 +47,16 @@ events.out.tfevents.*
 /local-artifacts/
 /inventory/
 
+# Keep local verification and experiment bookkeeping outside publication
+/tests/
+/verification/
+/validation/
+/reports/
+/archive/
+/tools/
+**/aug_logs/
+**/tf_logs/
+**/lightning_logs/
+**/training_resources/
+
 # Saved run source and hparams remain tracked; event/checkpoint bytes do not.
